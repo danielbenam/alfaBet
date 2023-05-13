@@ -1,0 +1,4 @@
+org\example\service\ConsumerService.class
+org\example\config\KafkaProducerConfig.class
+org\example\config\KafkaConsumerConfig.class
+org\example\PaymentConsumerApplication.class

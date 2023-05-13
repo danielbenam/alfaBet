@@ -1,0 +1,7 @@
+org\example\events\PerformTransactionEvent.class
+org\example\events\PerformTransactionResultEvent.class
+org\example\events\SearchForTransactionReportEvent.class
+org\example\Main.class
+org\example\dto\ProcessorDownloadedReportResult.class
+org\example\dto\ProcessorPerformTransactionResult.class
+org\example\events\TransactionStatusEvent.class
